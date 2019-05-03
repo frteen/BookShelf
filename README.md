@@ -4,4 +4,5 @@
 
 `release`分支用于debug和备份
 
-`master`分支用于成品
+`master`分支用于成品 
+
